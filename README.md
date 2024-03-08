@@ -1,5 +1,5 @@
 #  Build an Image Style Transfer Tool using CycleGANs
-### Assigment From IBM Advance AI Infitite Learning
+### Assigment From IBM Advance AI Infinite Learning
 
 Author : Roxanne Li
 
